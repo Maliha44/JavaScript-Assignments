@@ -1,0 +1,1 @@
+alert("Welcome at saylani's online student registration form submission platform");
